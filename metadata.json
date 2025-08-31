@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Strategy Backtester AI",
+  "description": "An AI-powered application to build and backtest financial trading strategies for cryptocurrency using a simplified Python-like syntax. The app uses Gemini to parse the strategy and runs a backtest simulation, visualizing the results.",
+  "requestFramePermissions": []
+}
